@@ -11,5 +11,5 @@ const returnLastTwoDrivers = function(drivers) {
 const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 
 let createFareMultiplier =  function(integer) {
-  return integer*4;
+  return integer*4
 }
